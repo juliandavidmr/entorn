@@ -16,6 +16,8 @@ var entorn = require('entorn');
 
 console.log("List all environment variables:" + entorn.list());
 
+console.log("Similary: ", entorn.similary("NODE")); // list of all variables similar environment
+
 console.log("have java installed? " + entorn.hasJavaHome());  // true | false
 
 console.log("where java is installed? " + entorn.getJavaHome()); // string dir folder java
