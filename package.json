@@ -1,0 +1,26 @@
+{
+  "name": "entorn",
+  "version": "1.0.0",
+  "description": "List and manages all system environment variables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliandavidmr/entorn.git"
+  },
+  "keywords": [
+    "variable",
+    "environment",
+    "var",
+    "process",
+    "argv"
+  ],
+  "author": "https://github.com/juliandavidmr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliandavidmr/entorn/issues"
+  },
+  "homepage": "https://github.com/juliandavidmr/entorn#readme"
+}
