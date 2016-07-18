@@ -1,6 +1,6 @@
 {
   "name": "entorn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "List and manages all system environment variables.",
   "main": "index.js",
   "scripts": {

@@ -24,7 +24,7 @@ console.log("What is the name of the user of this computer? ", entorn.User()); /
 
 console.log("You have it set android? ", entorn.hasAndroidHome()); // true | false
 
-console.log("has ass?", entorn.has("ass")); // true | false
+console.log("has axs?", entorn.has("axs")); // true | false
 
 console.log("or, has SESSION?", entorn.has("SESSION")); // true | false
 
