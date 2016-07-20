@@ -1,7 +1,7 @@
 {
   "name": "entorn",
-  "version": "1.0.3",
-  "description": "List and manages all system environment variables.",
+  "version": "1.0.4",
+  "description": "List and manage the variables system environment, and uses other extra features.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

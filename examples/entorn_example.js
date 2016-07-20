@@ -43,3 +43,19 @@ console.log("Version nodejs: ", entorn.version);
 console.log("or Version nodejs: ", entorn.v);
 
 console.log("Detail Nodejs: ", entorn.vdetail);
+
+/**
+ * [listmodules listing nodemodules globals]
+ */
+entorn.listmodules(function (err, list) {
+  if (err) console.log("ERROR", err);
+  console.log("Listing nodemodules globals:", list);
+});
+
+/**
+ * [exec command in the shell or cmd]
+ */
+entorn.exec("atom .", function (err, stdout) {
+  if (err) console.log("ERROR", err);
+  console.log("Result:", stdout);
+});
