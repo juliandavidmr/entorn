@@ -1,5 +1,7 @@
 # Entorn
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliandavidmr/entorn.svg)](https://greenkeeper.io/)
+
 List and manages all system environment variables.
 
 ## Installation
